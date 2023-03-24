@@ -1,0 +1,43 @@
+body{
+    background-color: aquamarine;
+
+    align-self: center;
+}
+
+input{
+    background-color: aliceblue;
+    width: 20%;
+    border: 0,1;
+}
+
+div{
+    background-color: antiquewhite;
+}
+
+.enviar {
+    background: rgb(238,174,202);
+    background: linear-gradient(90deg, rgba(238,174,202,1));
+    border: none;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.cancelar {
+    background: rgb(238,174,202);
+    background: linear-gradient(90deg, rgba(238,174,202,1));
+    border: none;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.d1{
+    align-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15%;
+    border-radius: 10px;
+    border: 1;
+}
+
+
+
